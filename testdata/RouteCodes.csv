@@ -1,0 +1,57 @@
+VertrekNaam;VertrekCode;BestemmingNaam;BestemmingCode;RouteCode
+Ijsselmeer (1);11;Friese Sluis;12;1112
+Lemstervaart;12;Friese Sluis;11;1211
+Ijsselmeer (2);13;Urkersluis;14;1314
+Ijsselmeer (2);13;Arie de Witbrug;15;1315
+Ijsselmeer (2);13;Zwolsebrug;16;1316
+Ijsselmeer (2);13;Nieuwe brug Urk;17;1317
+Ijsselmeer (2);13;Tollebekerbrug;18;1318
+Urkervaart (1);14;Arie de Witbrug;15;1415
+Urkervaart (1);14;Zwolsebrug;16;1416
+Urkervaart (1);14;Nieuwe brug Urk;17;1417
+Urkervaart (1);14;Tollebekerbrug;18;1418
+Urkervaart (2);15;Zwolsebrug;16;1516
+Urkervaart (2);15;Nieuwe brug Urk;17;1517
+Urkervaart (2);15;Tollebekerbrug;18;1518
+Urkenvaart (3);16;Nieuwe brug urk;17;1617
+Urkenvaart (3);16;Tollebekerbrug;18;1618
+Urkervaart (4);17;Tollebekerbrug;18;1718
+Emmeloord;18;Urkersluis;13;1813
+Emmeloord;18;Arie de Witbrug;14;1814
+Emmeloord;18;Zwolsebrug;15;1815
+Emmeloord;18;Nieuwe brug Urk;16;1816
+Emmeloord;18;Tollebekerbrug ;17;1817
+Urkervaart (4);17;Urkersluis;11;1711
+Urkervaart (4);17;Arie de Witbrug;13;1713
+Urkervaart (4);17;Zwolsebrug;14;1714
+Urkervaart (4);17;Nieuwe brug Urk;15;1715
+Urkervaart (3);16;Urkersluis;11;1611
+Urkervaart (3);16;Arie de Witbrug;13;1613
+Urkervaart (3);16;Zwolsebrug;14;1614
+Urkervaart (2);15;Urkersluis;11;1511
+Urkervaart (2);15;Arie de Witbrug;13;1513
+Urkervaart (1);14;Urkersluis;11;1411
+Urkervaart (5);19;Marknessersluis;20;1920
+Zwolse Vaart (1);20;Marknessersluis;19;2019
+Zwolse Vaart (2);21;Voorstersluis;22;2122
+Kadoelermeer (1);22;Voorstersluis;21;2221
+Kadoelermeer (2);23;Vollerhoverbrug;24;2324
+Vollerhovermeer;24;Vollerhoverbrug;23;2423
+Ketelmeer;30;Ketelsluis;31;3031
+Ketelmeer;30;Kampersluis;32;3032
+Hoge Vaart (1);31;Ketelsluis;30;3130
+Hoge Vaart (1);31;Lage Vaart (1);32;3132
+Lage Vaart (1);32;Ketelsluis;30;3230
+Lage Vaart (1);32;Kampersluis;31;3231
+Markermeer (1);40;Noordersluis;41;4041
+Lage Dwarsvaart;41;Noordersluis;40;4140
+Markermeer (2);42;Zuidersluis;43;4243
+Markermeer (2);42;Vaartsluis;44;4244
+Hoge Vaart (2);43;Zuidersluis;42;4342
+Hoge Vaart (2);43;Vaartsluis;44;4344
+Lage Vaart (2);44;Zuidersluis;42;4442
+Lage Vaart (2);44;Vaartsluis;43;4443
+Veluwemeer (1);50;Elburgerbrug;51;5051
+Drontermeer;51;Elburgerbrug;50;5150
+Veluwemeer (2);53;Blauwe Dromer;52;5352
+Hoge Dwarsvaart;52;Blauwe Dromer;53;5253
